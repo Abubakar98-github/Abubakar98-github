@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Muhammad Abu Bakar Mansha, 
-- 👀 I’m interested in Front-End Developer 💻
+- 👋 Hi there,
+   I’m Muhammad Abu Bakar Mansha, 
+- 👀 I’m interested in Full Stack Developer 💻
 - 🔭 I’m currently working on Angular Development 
 - 🌱 I’m currently learning Javascript, Angular
 - 👨🏻‍💻 Most of my projects are available on https://github.com/Abubakar98-github
