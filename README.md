@@ -1,13 +1,20 @@
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Muhammad Abu Bakar Mansha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar98-github&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar98-github" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakar98-github" alt="abubakar98-github" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/chabuba46014667" target="blank"><img src="https://img.shields.io/twitter/follow/chabuba46014667?logo=twitter&style=for-the-badge" alt="chabuba46014667" /></a> </p>
+
+<h3>🧐 More About Me:</h3>
 
 - 🌱 I’m currently learning **Angular,.NET**
 
@@ -15,11 +22,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abubakar98-github](https://github.com/Abubakar98-github)
 
-- 💬 Ask me about **Angular,.NET**
+- 🚀 Always ready to collaborate for Dev Experiments
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+
+- 💬   Ask me about anything tech related, I am happy to help;
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammad-abu-bakar-mansha/**
 
 - ⚡ Fun fact **I Think I'm funny😎**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
