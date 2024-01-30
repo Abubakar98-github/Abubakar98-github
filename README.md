@@ -27,7 +27,8 @@
 
 - 💬   Ask me about anything tech related, I am happy to help;
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhammad-abu-bakar-mansha/**
+- 📫 How to reach me  [LinkedIn ](https://www.linkedin.com/in/muhammad-abu-bakar-mansha/)
+
 
 - ⚡ Fun fact **I Think I'm funny😎**
 
