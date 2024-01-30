@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **ventureAI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abubakar98-github](https://github.com/Abubakar98-github)
+- 👨‍💻 All of my projects are available at [GitHub ](https://github.com/Abubakar98-github)
 
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
