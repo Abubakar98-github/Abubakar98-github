@@ -16,6 +16,7 @@
 <p align="left"> <a href="https://twitter.com/chabuba46014667" target="blank"><img src="https://img.shields.io/twitter/follow/chabuba46014667?logo=twitter&style=for-the-badge" alt="chabuba46014667" /></a> </p>
 
 <h3>🧐 More About Me:</h3>
+🔭   I’m currently working on JavaScript 30 Projects Series
 
 - 🌱 I’m currently learning **Angular,.NET**
 
