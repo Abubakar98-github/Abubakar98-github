@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Abu Bakar Mansha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<p>I am Muhammed Abu Bakar Mansha working as a frontend developer. I have expertise in all the main stacks which are supportive of frontend like HTML, CSS, Bootstrap, Tailwind, SCSS, JavaScript, Typescript and Angular. Also my aim is to get expertise in all hybrid application development as well. I am highly passionate about learning more skills and adding value to the IT industry.</p>
+<p>I have expertise in all the main stacks which are supportive of frontend like HTML, CSS, Bootstrap, Tailwind, SCSS, JavaScript, Typescript and Angular. Also my aim is to get expertise in all hybrid application development as well. I am highly passionate about learning more skills and adding value to the IT industry.</p>
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
