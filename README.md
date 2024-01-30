@@ -19,7 +19,7 @@
 
 
 - 🌱 I’m currently learning **Angular,.NET**
-- 🔭   I’m currently working on JavaScript 30 Projects Series
+- 🔭   I’m currently working on **Angular,.NET** Projects Series
 
 - 👯 I’m looking to collaborate on **ventureAI**
 
